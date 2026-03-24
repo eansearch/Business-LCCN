@@ -73,7 +73,7 @@ use overload
 
 subtype 'LCCN_Year'   => as 'Int' => where { $_ >= 1898 };
 subtype 'LCCN_Serial' => as 'Str' => where {m/^\d{6}$/};
-enum 'LCCN_Structure' => qw( A B );
+enum 'LCCN_Structure' => [qw( A B )];
 
 # normalize syntax at http://www.loc.gov/marc/lccn-namespace.html
 subtype 'LCCN_Normalized' => as 'Str' =>
