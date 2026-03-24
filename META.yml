@@ -13,7 +13,7 @@ name: Business-LCCN
 provides:
   Business::LCCN:
     file: lib/Business/LCCN.pm
-    version: 1.01
+    version: 1.02
 requires:
   Carp: 0
   Moose: 0.34
