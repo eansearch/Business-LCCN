@@ -13,7 +13,7 @@ my $builder = Module::Build->new(
 	'Moose' => 0.34,
 	'Moose::Util::TypeConstraints' => 0,
 	'Scalar::Util' => 1.23,
-        'Test::More' => 0,
+	'Test::More' => 0,
 	'URI' => 1.19,
     },
     add_to_cleanup      => [ 'Business-LCCN-*' ],
