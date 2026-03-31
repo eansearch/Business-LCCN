@@ -615,6 +615,7 @@ L<http://search.cpan.org/dist/Business-LCCN>
 
 =head1 COPYRIGHT & LICENSE
 
+Copyright 2026 Jan Willamowius, https://www.ean-search.org/
 Copyright 2008 Anirvan Chatterjee, all rights reserved.
 
 This program is free software; you can redistribute it and/or modify it
