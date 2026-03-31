@@ -21,6 +21,7 @@ requires:
   Moose::Util::TypeConstraints: 0
   Scalar::Util: 1.23
   Test::More: 0
+  Test::CPAN::Meta::YAML: 0
   URI: 1.19
   perl: v5.6.1
 resources:
