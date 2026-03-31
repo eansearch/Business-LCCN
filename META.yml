@@ -23,7 +23,7 @@ requires:
   Test::More: 0
   Test::CPAN::Meta::YAML: 0
   URI: 1.19
-  perl: v5.6.1
+  perl: 5.6.1
 resources:
   license: https://dev.perl.org/licenses/
   repository: https://github.com/eansearch/Business-LCCN
